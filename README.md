@@ -1,5 +1,5 @@
+## 
 ## lemniskater.github.io
-##
 # This is a placeholder image. I will be creating my own.
 ![Placeholder jpeg](docs/assets/placeholder.jpeg)
 
