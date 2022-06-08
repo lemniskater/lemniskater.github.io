@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 markdown: GFM
+url: https://lemniskater.github.io/
+baseurl: https://lemniskater.github.io/
