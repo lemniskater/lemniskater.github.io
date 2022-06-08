@@ -9,7 +9,7 @@
 ## If you wish to help stop climate change through monetary donations: 
 
 https://www.rainforestcoalition.org/ and their donations:
-https://www.rainforestcoalition.org/donate/#:~:text=Donation%20Options,%2C%20nonprofit%20(501c3)%20organization
+[Donate to them](https://www.rainforestcoalition.org/donate/#:~:text=Donation%20Options,%2C%20nonprofit%20(501c3)%20organization)
 
 https://www.catf.us/ and their donations:
 https://give.catf.us/give/329616/#!/donation/checkout
