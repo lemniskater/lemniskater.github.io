@@ -1,7 +1,7 @@
 ## <!-- -->
 ## <!-- -->
-# This is a placeholder image. Once my animation finishes rendering I will upload it here.
-![Placeholder jpeg](docs/assets/placeholder.jpeg)
+# 
+![Rendered Animation](docs/assets/Hourearth5min-1.mp4)
 
 ## Artist Statement:
 > I chose to make this artifact in this way to provide a visual representation of how time and climate change are related in a more literal sense. Every second that passes, our earth slowly dies, no matter our actions. A doomsday clocks presents a view of how close humanity is to destroying itself through global catastrophe, a what-if clock. This hourglass represents our earth now, this is what is currently happening, our earth is dying and we either accelerate or keep that process at its normal speed. We can never stop this hourglass from flowing but we can prevent unnecessary leaking, its up to us to determine whether or not this hourglass keeps itself on track or ends much faster than we anticipate. 
