@@ -2,7 +2,6 @@
 ## <!-- -->
 # 
 ![Rendered Animation](docs/assets/Hourglass-1-1.mp4)
-<img src="{{ "docs/assets/Hourglass-1-1.mp4" | prepend: site.baseurl | prepend: site.url}}" alt="Hourglass-1-1" />
 <img src='https://github.com/docs/assets/Hourglass-1-1.mp4' />
 
 ## Artist Statement:
